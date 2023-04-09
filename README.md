@@ -16,3 +16,7 @@ STEP 4 Analyse count plot
 STEP 5 Analyse Box plot
 
 STEP 6 Analyse Hist plot
+
+# CODE
+# RESULT
+Thus, we have analyzed the vvariables of the dataset using univariate analysis
